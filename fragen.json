@@ -1,0 +1,426 @@
+[
+  {
+    "frage": "Was bedeutet ein rotes Licht an einer Ampel?",
+    "A": "Langsam fahren",
+    "B": "Anhalten und warten",
+    "C": "Vorfahrt gewähren",
+    "D": "Nur für Fußgänger",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie weit müssen Sie bei einer Geschwindigkeit von 100 km/h mindestens Abstand zum vorausfahrenden Fahrzeug halten?",
+    "A": "25 Meter",
+    "B": "50 Meter",
+    "C": "75 Meter",
+    "D": "100 Meter",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet das Zeichen 'Vorfahrt gewähren'?",
+    "A": "Anhalten und warten",
+    "B": "Die Geschwindigkeit verringern",
+    "C": "Den Querverkehr passieren lassen",
+    "D": "Einfahrt verboten",
+    "richtig": "C"
+  },
+  {
+    "frage": "Ab welchem Promillewert gilt für Fahranfänger in der Probezeit ein Fahrverbot?",
+    "A": "0,0 Promille",
+    "B": "0,3 Promille",
+    "C": "0,5 Promille",
+    "D": "0,8 Promille",
+    "richtig": "A"
+  },
+  {
+    "frage": "Welche Höchstgeschwindigkeit gilt innerorts, wenn kein Zeichen etwas anderes angibt?",
+    "A": "30 km/h",
+    "B": "50 km/h",
+    "C": "60 km/h",
+    "D": "70 km/h",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet ein gelbes Blinklicht an einer Ampel?",
+    "A": "Unbedingt anhalten",
+    "B": "Freie Fahrt",
+    "C": "Vorsicht, besondere Gefahr",
+    "D": "Linksabbiegen erlaubt",
+    "richtig": "C"
+  },
+  {
+    "frage": "Wer hat an einem Fußgängerüberweg Vorrang?",
+    "A": "Fahrzeuge",
+    "B": "Fußgänger",
+    "C": "Radfahrer",
+    "D": "Niemand hat Vorrang",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie lange beträgt die gesetzliche Aufbewahrungspflicht für den Fahrzeugschein?",
+    "A": "Er muss immer mitgeführt werden",
+    "B": "3 Jahre",
+    "C": "5 Jahre",
+    "D": "Keine Pflicht",
+    "richtig": "A"
+  },
+  {
+    "frage": "Was müssen Sie tun, wenn Sie eine Panne haben und auf der Autobahn halten müssen?",
+    "A": "Warnblinkanlage einschalten und auf Hilfe warten",
+    "B": "Warnblinkanlage einschalten, Warnweste anziehen, Warndreieck aufstellen",
+    "C": "Sofort das Fahrzeug verlassen",
+    "D": "Auf dem Seitenstreifen fahren und Hilfe rufen",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was ist die Mindestprofiltiefe für PKW-Reifen laut Gesetz?",
+    "A": "0,5 mm",
+    "B": "1,0 mm",
+    "C": "1,6 mm",
+    "D": "2,0 mm",
+    "richtig": "C"
+  },
+  {
+    "frage": "Wann darf man auf der Autobahn überholen?",
+    "A": "Immer, wenn die Sicht gut ist",
+    "B": "Nur links",
+    "C": "Rechts überholen ist immer erlaubt",
+    "D": "Nur wenn Überholverbotsschilder fehlen",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet 'Rechts vor Links'?",
+    "A": "Fahrzeuge von rechts haben Vorfahrt",
+    "B": "Fahrzeuge von links haben Vorfahrt",
+    "C": "Fußgänger haben immer Vorfahrt",
+    "D": "Gilt nur für Radfahrer",
+    "richtig": "A"
+  },
+  {
+    "frage": "Wie verhalten Sie sich bei einem Rettungsfahrzeug mit eingeschaltetem Blaulicht?",
+    "A": "Normal weiterfahren",
+    "B": "Sofort anhalten",
+    "C": "Sofort freie Bahn schaffen",
+    "D": "Die Geschwindigkeit verringern",
+    "richtig": "C"
+  },
+  {
+    "frage": "Was bedeutet das Verkehrszeichen 'Einbahnstraße'?",
+    "A": "Nur Einfahrt erlaubt",
+    "B": "Durchfahrt in beiden Richtungen verboten",
+    "C": "Fahrt nur in Pfeilrichtung erlaubt",
+    "D": "Einparken verboten",
+    "richtig": "C"
+  },
+  {
+    "frage": "Welcher Sicherheitsabstand gilt auf der Autobahn bei 120 km/h?",
+    "A": "60 Meter",
+    "B": "90 Meter",
+    "C": "100 Meter",
+    "D": "120 Meter",
+    "richtig": "C"
+  },
+  {
+    "frage": "Was versteht man unter dem 'toten Winkel'?",
+    "A": "Ein blinder Spiegel",
+    "B": "Ein Bereich, den der Fahrer weder direkt noch durch Spiegel einsehen kann",
+    "C": "Ein schlecht beleuchteter Bereich",
+    "D": "Eine Kurve ohne Sicht",
+    "richtig": "B"
+  },
+  {
+    "frage": "Ab wann gilt in Deutschland Winterreifenpflicht?",
+    "A": "Immer im Winter",
+    "B": "Ab 1. Oktober",
+    "C": "Bei Schnee, Eis, Reifglätte oder Glatteis",
+    "D": "Ab Dezember bis Februar",
+    "richtig": "C"
+  },
+  {
+    "frage": "Was bedeutet ein Halteverbotsschild mit einem roten Kreuz?",
+    "A": "Parken verboten",
+    "B": "Halten und Parken verboten",
+    "C": "Nur Halten verboten",
+    "D": "Einfahrt verboten",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie verhalten Sie sich, wenn ein Schulbus mit eingeschaltetem Warnblinklicht hält?",
+    "A": "Langsam vorbeifahren",
+    "B": "Hinter dem Bus anhalten und warten",
+    "C": "Links überholen, wenn frei",
+    "D": "Normal weiterfahren",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet eine durchgehende weiße Mittellinie?",
+    "A": "Überholen erlaubt",
+    "B": "Linie darf nicht überfahren werden",
+    "C": "Spurwechsel erlaubt",
+    "D": "Gegenverkehr hat Vorfahrt",
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Promillegrenze gilt für Kraftfahrer im normalen Straßenverkehr?",
+    "A": "0,0 Promille",
+    "B": "0,3 Promille",
+    "C": "0,5 Promille",
+    "D": "0,8 Promille",
+    "richtig": "C"
+  },
+  {
+    "frage": "Was ist beim Überholen auf einer zweispurigen Straße zu beachten?",
+    "A": "Hupen vor dem Überholen",
+    "B": "Sicherstellen, dass die Straße frei ist und ausreichend Sicht besteht",
+    "C": "Nur bei Tageslicht überholen",
+    "D": "Immer Blinker setzen und sofort überholen",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie lange darf ein Fahrzeug innerorts zum Be- oder Entladen halten?",
+    "A": "Maximal 3 Minuten",
+    "B": "Maximal 5 Minuten",
+    "C": "Nur kurze Zeit, die für das Be- oder Entladen erforderlich ist",
+    "D": "Beliebig lange",
+    "richtig": "C"
+  },
+  {
+    "frage": "Was gilt auf Autobahnen für LKW über 3,5 t?",
+    "A": "Maximal 80 km/h",
+    "B": "Maximal 100 km/h",
+    "C": "Maximal 120 km/h",
+    "D": "Gleiche Regelung wie PKW",
+    "richtig": "A"
+  },
+  {
+    "frage": "Wie verhalten Sie sich an einem unbeschrankten Bahnübergang?",
+    "A": "Langsam durchfahren",
+    "B": "Stopp – Schauen – Horchen – Sichern",
+    "C": "Nur bei Rot halten",
+    "D": "Blinklichter abwarten",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet das blaue Schild mit weißem Pfeil nach rechts oben?",
+    "A": "Einbahnstraße",
+    "B": "Richtungsvorschrift – Fahrt nur in Pfeilrichtung",
+    "C": "Umleitung",
+    "D": "Parkplatz rechts",
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Fahrzeuge dürfen den Seitenstreifen auf der Autobahn benutzen?",
+    "A": "Alle Fahrzeuge bei Stau",
+    "B": "Nur Motorräder",
+    "C": "Nur Einsatzfahrzeuge und im Stau die Rettungsgasse",
+    "D": "Keine",
+    "richtig": "D"
+  },
+  {
+    "frage": "Wann ist das Einschalten der Beleuchtung eines Fahrzeugs vorgeschrieben?",
+    "A": "Nur nachts",
+    "B": "Bei Dämmerung, Dunkelheit und schlechter Sicht",
+    "C": "Nur bei Regen",
+    "D": "Nur auf Autobahnen",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was versteht man unter 'Aquaplaning'?",
+    "A": "Motorpanne durch Wasserschaden",
+    "B": "Das Aufschwimmen des Reifens auf einer Wasserfilmschicht",
+    "C": "Ein Bremsversagen bei Nässe",
+    "D": "Scheibenwischerausfall",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie ist beim Auffahren auf die Autobahn zu verfahren?",
+    "A": "Langsam einfahren und warten",
+    "B": "Auf dem Beschleunigungsstreifen Geschwindigkeit anpassen und in Lücken einfädeln",
+    "C": "Vorfahrt erzwingen",
+    "D": "Erst einfahren, dann beschleunigen",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was ist bei Nebel zu beachten?",
+    "A": "Nebelscheinwerfer bei unter 50m Sicht einschalten",
+    "B": "Nebelschlussleuchte immer einschalten",
+    "C": "Geschwindigkeit erhöhen um schneller aus dem Nebel zu kommen",
+    "D": "Fernlicht einschalten",
+    "richtig": "A"
+  },
+  {
+    "frage": "Was bedeutet das Zeichen 'Achtung – Kinder'?",
+    "A": "Schulzone – 30 km/h",
+    "B": "Besondere Vorsicht, da Kinder die Straße nutzen könnten",
+    "C": "Spielstraße",
+    "D": "Parkverbot für Fahrzeuge",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie groß muss die Rettungsgasse auf mehrspurigen Straßen sein?",
+    "A": "1 Meter",
+    "B": "So groß, dass Einsatzfahrzeuge passieren können",
+    "C": "2 Meter",
+    "D": "Eine halbe Fahrspur",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was passiert, wenn Sie mit 0,5–1,09 Promille einen Unfall verursachen?",
+    "A": "Nur Bußgeld",
+    "B": "Straftat – auch ohne Ausfallerscheinungen",
+    "C": "Kein Vergehen",
+    "D": "Punktabzug ohne Fahrverbot",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie ist das Verhalten bei einem Unfall mit Personenschaden?",
+    "A": "Weiterfahren und Polizei anrufen",
+    "B": "Anhalten, Erste Hilfe leisten, Polizei und Rettungsdienst rufen",
+    "C": "Zeugen sammeln und warten",
+    "D": "Fahrzeuge absichern und Fotos machen",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet die Fahrbahnmarkierung 'Sperrfläche' (diagonal schraffierte Fläche)?",
+    "A": "Parkzone",
+    "B": "Diese Fläche darf nicht befahren werden",
+    "C": "Überholzone",
+    "D": "Wendebereich",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie verhalten Sie sich bei grünem Pfeil neben einer roten Ampel?",
+    "A": "Freie Fahrt",
+    "B": "Nur nach rechts abbiegen nach Stopp und wenn frei",
+    "C": "Linksabbiegen erlaubt",
+    "D": "Bedeutungslos",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wann darf in einer Fußgängerzone gefahren werden?",
+    "A": "Immer mit max. 10 km/h",
+    "B": "Nur wenn es durch Zusatzschilder erlaubt ist",
+    "C": "Nur für Anlieger",
+    "D": "Nie",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was ist ein Fahrtenschreiber?",
+    "A": "Ein Navigationssystem",
+    "B": "Ein Gerät zur Aufzeichnung von Fahrzeit, Geschwindigkeit und Pausen",
+    "C": "Ein Abstandswarner",
+    "D": "Ein Bordcomputer",
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Mindestgeschwindigkeit gilt auf deutschen Autobahnen?",
+    "A": "Es gibt keine Mindestgeschwindigkeit",
+    "B": "60 km/h",
+    "C": "80 km/h",
+    "D": "100 km/h",
+    "richtig": "A"
+  },
+  {
+    "frage": "Was bedeutet das Warnzeichen 'Doppelkurve'?",
+    "A": "Zwei Serpentinen folgen",
+    "B": "Zuerst Rechtskurve, dann Linkskurve",
+    "C": "Beide Seiten gesperrt",
+    "D": "Überholverbot in Kurven",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was ist beim Fahren mit Anhänger zu beachten?",
+    "A": "Keine Besonderheiten",
+    "B": "Längerer Bremsweg, geänderte Fahrdynamik, Außenspiegel prüfen",
+    "C": "Nur auf Landstraßen erlaubt",
+    "D": "Maximale Geschwindigkeit 60 km/h",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was ist der Reaktionsweg bei 50 km/h?",
+    "A": "ca. 14 Meter",
+    "B": "ca. 28 Meter",
+    "C": "ca. 42 Meter",
+    "D": "ca. 56 Meter",
+    "richtig": "A"
+  },
+  {
+    "frage": "Wie lautet die Regel beim Einfahren aus einem Feldweg auf eine Vorfahrtstraße?",
+    "A": "Vorfahrt erzwingen wenn frei",
+    "B": "Der Verkehr auf der Vorfahrtstraße hat Vorfahrt",
+    "C": "Rechts vor Links gilt",
+    "D": "Nur bei Stopp-Schild anhalten",
+    "richtig": "B"
+  },
+  {
+    "frage": "Welches Licht darf bei normaler Dunkelheit auf der Autobahn benutzt werden?",
+    "A": "Nur Abblendlicht",
+    "B": "Fernlicht, wenn kein Gegenverkehr blendet",
+    "C": "Nur Standlicht",
+    "D": "Nebelscheinwerfer",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was gilt beim Parken in zweiter Reihe?",
+    "A": "Kurz erlaubt zum Einladen",
+    "B": "Generell verboten",
+    "C": "Nur mit Warnblinkanlage erlaubt",
+    "D": "Nur für 5 Minuten erlaubt",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet das Zeichen 'Eingeschränktes Halteverbot'?",
+    "A": "Halten verboten",
+    "B": "Parken verboten, Halten kurz erlaubt",
+    "C": "Alles verboten",
+    "D": "Nur Lieferfahrzeuge dürfen halten",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wie reagieren Sie bei einem Reifenplatzer während der Fahrt?",
+    "A": "Sofort stark bremsen",
+    "B": "Steuer festhalten, Gas wegnehmen, ruhig ausrollen lassen",
+    "C": "Lenkrad loslasen",
+    "D": "Handbremse ziehen",
+    "richtig": "B"
+  },
+  {
+    "frage": "Wann müssen Fahrzeuge die Außenbeleuchtung einschalten, wenn sie parken?",
+    "A": "Immer nachts",
+    "B": "Wenn die Sichtweite unter 50 Meter beträgt oder die Straßenbeleuchtung fehlt",
+    "C": "Nie, Standlicht reicht",
+    "D": "Nur in Tunneln",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was ist beim Einsatz von Fahrerassistenzsystemen zu beachten?",
+    "A": "Sie ersetzen die Aufmerksamkeit des Fahrers",
+    "B": "Sie unterstützen den Fahrer, ersetzen aber nicht seine Verantwortung",
+    "C": "Sie sind nicht zulässig",
+    "D": "Nur auf Autobahnen erlaubt",
+    "richtig": "B"
+  },
+  {
+    "frage": "Was bedeutet ein blaues Schild mit einem weißen 'P'?",
+    "A": "Parkverbot",
+    "B": "Parkplatz",
+    "C": "Post",
+    "D": "Polizei",
+    "richtig": "B"
+  },
+  {
+    "frage": "Welche Promillegrenze gilt für Berufskraftfahrer (Bus, LKW)?",
+    "A": "0,0 Promille",
+    "B": "0,3 Promille",
+    "C": "0,5 Promille",
+    "D": "0,8 Promille",
+    "richtig": "A"
+  },
+  {
+    "frage": "Was ist beim Wenden auf einer Straße ohne Wendemöglichkeit zu tun?",
+    "A": "Rückwärts fahren bis zur nächsten Möglichkeit",
+    "B": "Mehrpunkt-Wenden nach Einschätzung der Verkehrslage",
+    "C": "Verboten – weiterfahren",
+    "D": "Nur auf markierten Wendeflächen",
+    "richtig": "B"
+  }
+]
