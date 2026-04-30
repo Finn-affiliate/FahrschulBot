@@ -62,12 +62,12 @@ class FrageHinzufuegenModal(discord.ui.Modal, title="Frage hinzufügen"):
         )
 
 
-frage_group = app_commands.Group(name="frage", description="Fragen-Verwaltung")
-
-
 class FragenCog(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
+
+    # Gruppe als Klassen-Attribut – discord.py blendet self korrekt aus
+    frage_group = app_commands.Group(name="frage", description="Fragen-Verwaltung")
 
     @frage_group.command(name="hinzufügen", description="Fügt eine neue Theoriefrage hinzu.")
     @app_commands.describe(richtig="Die richtige Antwort (A, B, C oder D)")
@@ -108,7 +108,6 @@ class FragenCog(commands.Cog):
             await interaction.followup.send("Keine Fragen vorhanden.", ephemeral=True)
             return
 
-        # Fragen in Chunks senden (Discord Embed-Limit)
         chunks = []
         current = []
         for i, f in enumerate(fragen, 1):
@@ -130,6 +129,4 @@ class FragenCog(commands.Cog):
 
 
 async def setup(bot: commands.Bot):
-    cog = FragenCog(bot)
-    bot.tree.add_command(frage_group)
-    await bot.add_cog(cog)
+    await bot.add_cog(FragenCog(bot))

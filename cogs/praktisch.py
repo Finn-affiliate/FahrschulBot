@@ -151,14 +151,12 @@ class PruefungBeendenModal(discord.ui.Modal, title="Prüfung beenden"):
         kat_name = KATEGORIE_NAMES.get(kat, kat)
 
         if self.bestanden:
-            # PDF erstellen
             with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
                 pdf_path = tmp.name
 
             try:
                 pdf_gen.build_pdf(pruefung, pdf_path)
 
-                # PDF per DM senden
                 try:
                     with open(pdf_path, "rb") as f:
                         await self.schueler.send(
@@ -175,7 +173,6 @@ class PruefungBeendenModal(discord.ui.Modal, title="Prüfung beenden"):
                 except Exception:
                     pass
 
-            # Archiv
             archiv_embed = _build_archiv_embed(pruefung)
             archiv_kanal = interaction.guild.get_channel(ARCHIV_KANAL_ID)
             if archiv_kanal:
@@ -288,12 +285,12 @@ class PruefungSelectView(discord.ui.View):
         self.stop()
 
 
-pruefung_group = app_commands.Group(name="prüfung", description="Prüfungsverwaltung")
-
-
 class PraktischCog(commands.Cog):
     def __init__(self, bot: commands.Bot):
         self.bot = bot
+
+    # Gruppe als Klassen-Attribut – discord.py blendet self korrekt aus
+    pruefung_group = app_commands.Group(name="prüfung", description="Prüfungsverwaltung")
 
     @pruefung_group.command(name="starten", description="Startet eine praktische Prüfung.")
     @app_commands.describe(schueler="Der Fahrschüler")
@@ -335,11 +332,6 @@ class PraktischCog(commands.Cog):
                 "Welche Prüfung möchtest du beenden?", view=view, ephemeral=True
             )
 
-    def get_app_commands(self):
-        return [pruefung_group]
-
 
 async def setup(bot: commands.Bot):
-    cog = PraktischCog(bot)
-    bot.tree.add_command(pruefung_group)
-    await bot.add_cog(cog)
+    await bot.add_cog(PraktischCog(bot))
